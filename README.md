@@ -1,3 +1,3 @@
 # projeto-strata
 
-https://hungry-mcclintock-ec7ec5.netlify.app/
+https://projeto-strata-html-css-curso-andre-moura.netlify.app/
